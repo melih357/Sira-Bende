@@ -1,0 +1,3 @@
+Sıra Bende WAMP MVP
+Sürüm: 1.0.1
+Düzeltme: MySQL 8 GROUPS anahtar kelimesi ve localhost klasör yapısı

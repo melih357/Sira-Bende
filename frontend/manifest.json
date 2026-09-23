@@ -1,0 +1,13 @@
+{
+  "name": "Sıra Bende",
+  "short_name": "Sıra Bende",
+  "description": "Zaman kredisiyle yardımlaşma platformu",
+  "start_url": "./index.php",
+  "display": "standalone",
+  "background_color": "#fbfaf7",
+  "theme_color": "#1f2a44",
+  "icons": [
+    {"src":"assets/img/favicon.png","sizes":"192x192","type":"image/png"},
+    {"src":"assets/img/logo-mark.png","sizes":"512x512","type":"image/png"}
+  ]
+}

@@ -1,0 +1,21 @@
+SIRA BENDE - HIZLI KURULUM
+
+1) Eski klasörü sil:
+   C:\wamp64\www\sirabende
+
+2) ZIP dosyasını C:\wamp64\www\ içine çıkar.
+   Kontrol: C:\wamp64\www\sirabende\frontend\index.php bulunmalı.
+
+3) WAMP simgesi yeşil olsun.
+
+4) http://localhost/phpmyadmin/ adresini aç.
+   Paket içindeki database.sql dosyasını İçe Aktar bölümünden çalıştır.
+
+5) Siteyi aç:
+   http://localhost/sirabende/frontend/
+
+6) Veritabanı testi:
+   http://localhost/sirabende/backend/health.php
+
+Demo kullanıcı: demo@sirabende.local / Demo123!
+Yönetici: admin@sirabende.local / Admin123!
